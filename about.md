@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Técnico en Sistemas Microinformáticos y Redes. Desarrollador web en progreso. *Como imaginaréis, aquí tocaremos de todo menos Desarrollo y Seguridad. Guiño guiño, codo codo...*
 
-### More Information
+### Más información
 
-A place to include any other types of information that you'd like to include about yourself.
+Desarrollo en varios lenguajes como C#, Swift, PHP, JS (y aprendiendo Java). También soy desarrollador de videojuegos multiplataforma y para Realidad Virtual. Certificado en Linux y estudiante de Cisco CCENT y Security CCNA.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:garcia.jjimenez@gmail.com)
