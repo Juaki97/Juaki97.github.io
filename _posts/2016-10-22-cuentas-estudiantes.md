@@ -7,13 +7,13 @@ Muchas veces hemos tenido que renunciar al mejor software o a especifícaciones 
 
 Pues aquí te traigo las tres empresas más interesantes para los estudiantes de programación; ya que, presentando solo tu certificado de matriculación en cualquier centro o unirversidad, te dan una cuenta gratuita por el periodo de un año repleta de novedades. Pero no te preocupes, que si pasado dicho año sigues siendo estudiante, puedes renovarlo enviándo otro certificado de matriculación.
 
-1. Microsoft (como no)
+1. [Microsoft](https://imagine.microsoft.com/es-ES) (como no)
   * Cuenta de desarrollador
   * Azure
   * Windows Server 2008 R2
   * Y mucho más!
 
-2. JetBrains (ojo a esto que se pone interesante...)
+2. [JetBrains](https://www.jetbrains.com/student/) (ojo a esto que se pone interesante...)
   * IntelliJ IDEA ULTIMATE!!
   * WebStorm
   * PyCharm
@@ -21,7 +21,7 @@ Pues aquí te traigo las tres empresas más interesantes para los estudiantes de
   * AppCode
   * Y TODAS LAS HERRAMIENTAS DE LA WEB!
 
-3. GitHub (preparaos, que viene pa rematar la faena...)
+3. [GitHub](https://education.github.com/pack) (preparaos, que viene pa rematar la faena...)
   * Dominio ".me" gratuito por un año
   * 50$ para DigitalOcean
   * Certificado SSL
