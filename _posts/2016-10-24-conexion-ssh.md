@@ -12,7 +12,7 @@ Una vez instalado el cliente, estaremos totalmente preparados para nuestra prime
 Pero no vamos a dejarlo todo en una simple conexión, vamos a profundizar un poco más:
 
 
-### Intercambio de datos
+### Intercambio de datos hola
 
 Ahora, aprenderemos a copiar elementos de y en la máquina remota. Para copiarte a ti, archivos de la otra máquina, bastará con el comando **"scp usuario@IP:dirección/archivo lugar/donde/copiar"**. En el caso de que lo que queramos sea copiar de la nuestra a esta, bastará con cambiar los parámetros de orden. (Quedaría algo así: **"scp lugar/del/archivo usuario@IP:sitio/a/copiar"***.
 
@@ -21,7 +21,7 @@ Otro punto a tener en cuenta, es que cada vez que nosotros accedemos a una nueva
 Una buena práctica es **no acceder a nuestro servidor remoto mediante contraseña**; ya que si nos exponemos a un atacante o nuestra seguridad es baja, podría verse afectada la integridad de nuestros datos. Por su parte, el servidor podría negar los accesos por contraseña y permitirlos solo **mediante clave pública** (ya mencionamos algo antes, ¿te acuerdas?), pero eso es cosa del servidor, y nosotros por ahora tan solo somos clientes. Pero igualmente, podemos dejar de introducir contraseña y acceder con nuestra clave privada (mucho más seguro y fiable).
 
 
-### Cómo acceder mediante comprobación de clave privada y clave pública
+### Cómo acceder mediante comprobación de clave privada y clave pública hola
 
 Lo primero, será crear nuestra **pareja de claves (pública y privada)** con el comando **"ssh-keygen -t rsa"**. Nota: **"rsa"** es el tipo de la clave, también podría ser **"dsa"**. Explicaremos diferencias más adelante.
 
