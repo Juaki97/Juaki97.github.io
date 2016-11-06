@@ -10,19 +10,19 @@ En plataformas como Windows, iOS, Android y Mac OS, hay una sencilla aplicación
 Pues bien, aquí traigo una solución fácil y sencilla de disponer de toooodas las ventajas de GDrive en nuestro sistema:
 
 1. Añadimos el repositorio desde el que nos descargaremos el cliente
-..* **sudo add-apt-repository ppa:nilarimogard/webupd8**
+  * **sudo add-apt-repository ppa:nilarimogard/webupd8**
 2. Actualizamos la lista de repositorios
-..* **sudo apt-get update**
+  * **sudo apt-get update**
 3. Descargamos la aplicación en sí
-..* **sudo apt-get install grive**
+  * **sudo apt-get install grive**
 
 Con eso ya tendríamos todo preparado para comenzar a usar nuestro Drive, pero aún queda seleccionar en que directorio local querremos tener Drive:
 
 1. Para ello creamos una carpeta en nuestro directorio personal con el nombre que queramos (en mi caso, le llamé Grive)
-..* **mkdir ~/Grive**
+  * **mkdir ~/Grive**
 2. Y nos ubicamos en el
-..* **cd ~/Grive**
+  * **cd ~/Grive**
 3. Grive, a diferencia de otros clientes no se actualiza y se mantiene al día automáticamente. Para ello habrá que hacer una primera petición para ver qué contiene nuestra carpeta en la nube. (Al hacerlo la primera vez, nos proporcionará un link que deberemos de pegar en nuestro navegador e ir a dicha web, allí Google nos pedirá que aceptemos que una aplicación de tercero usará nuestros datos y nos dará un código que tendremos que usar cuando nos lo pida al introducir el comando)
-..* **grive -a**
+  * **grive -a**
 
 Y voilà! Ya tenemos nuestro GDrive configurado y listo para usar. Cada vez que queramos actualizarlo (ya sea para bajar información del directorio online o para subir algo que hayamos creado o modificado) tendremos que usar el comando **grive** pero sin el **-a**.
