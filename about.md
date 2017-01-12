@@ -11,7 +11,7 @@ Técnico en Sistemas Microinformáticos y Redes. Desarrollador web en progreso. 
 Desarrollo en varios lenguajes como C#, Swift, PHP, JS (y aprendiendo Java). También soy desarrollador de videojuegos multiplataforma y para Realidad Virtual. Certificado en Linux y estudiante de Cisco CCENT y Security CCNA.
 
 ### Proyectos
-..* [PornGenerator](http://jojigarcia.me/PornConstructor/)
+* [PornConstructor](http://jojigarcia.me/PornConstructor/)
 
 ### Ponte en contacto conmigo!
 
