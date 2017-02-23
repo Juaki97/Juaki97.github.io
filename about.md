@@ -12,6 +12,7 @@ Desarrollo en varios lenguajes como C#, Swift, PHP, JS (y aprendiendo Java). Tam
 
 ### Proyectos
 * [Las Excusas del pirata](http://jojigarcia.me/las-excusas-del-pirata/) = Aplicación web que surgió tras oir al "pirata y su banda" en Rock FM un día yendo al trabajo. Para que se pudiera excusar cada vez que llegue tarde a algún sitio.
+* [Bingo](https://github.com/Juaki97/Bingo) = Aplicación Java para jugar al Bingo. Realizado como trabajo escolar.
 
 ### Ponte en contacto conmigo!
 
